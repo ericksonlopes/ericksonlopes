@@ -1,4 +1,4 @@
-### ✅Bem vindo ao Github de um Pythonista! (Estou organizando isso aqui !!)
+### ✅Bem vindo ao Github de um Pythonista! 🚧Readme em construção 🚧
 
 👋Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
 
