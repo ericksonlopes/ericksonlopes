@@ -12,13 +12,13 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 🛠️Habilidades técnicas:
-- ➡ Python
-- ➡ Web Scraping
-- ➡ Git
-- ➡ MySQL / SQL
-- ➡ HTML5
-- ➡ Scrum
-- ➡ Django
+- Python
+- Web Scraping
+- Git
+- MySQL / SQL
+- HTML5
+- Scrum
+- Django
 
 
 
