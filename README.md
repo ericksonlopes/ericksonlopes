@@ -8,7 +8,7 @@
 👋Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
 
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 🛠️Habilidades técnicas:
@@ -22,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-### ✅Sobre 
+## ✅Sobre 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopesdev/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Erickson-lopes-dev)](https://github.com/Erickson-lopes-dev)
 
