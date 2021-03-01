@@ -8,10 +8,7 @@
 👋Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
 
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-🛠️Habilidades técnicas:
+## 🛠 Habilidades técnicas
 - Python
 - Web Scraping
 - Git
