@@ -14,7 +14,6 @@
 - Git
 - MySQL / SQL
 - HTML5
-- Scrum
 - Django
 
 
