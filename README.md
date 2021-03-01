@@ -22,7 +22,7 @@
 ## ✅ Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopesdev/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Erickson-lopes-dev)](https://github.com/Erickson-lopes-dev)
-![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=erickson:ofc.erickson@gmail.com)
 
 
    
