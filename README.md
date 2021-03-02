@@ -13,7 +13,7 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
 - ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-- ![Web Scraping](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
+- [![web-scraping-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ### databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
