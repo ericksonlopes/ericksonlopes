@@ -25,6 +25,7 @@
 - ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 - ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 - ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)
+- ![GitHub](https://img.shields.io/badge/-GitHub-FF6C37?&logo=GitHub&logoColor=FF6C37)
 
 ## ✅ Entre em contato!
 
