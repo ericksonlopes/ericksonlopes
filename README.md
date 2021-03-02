@@ -8,18 +8,20 @@
 👋Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
 
 
-### 🛠 Habilidades técnicas
+### Habilidades técnicas:
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 - Web Scraping
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 - Django
 
-### databases
+### databases:
 - ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 - ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 - ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
 
+### Ferramentas:
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm&logoColor=4479A1)
 
 ## ✅ Entre em contato!
 
