@@ -10,11 +10,10 @@
 
 ### Habilidades técnicas:
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
-- ´Web Scraping´
-- ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-- ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
-- ![Python](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=3776AB)
-- `-n`
+- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=F05032)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=E34F26)
+- ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=3776AB)
+- `Web Scraping`
 
 ### databases:
 - ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
@@ -26,7 +25,7 @@
 - ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 - ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 - ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)
-- ![GitHub](https://img.shields.io/badge/-GitHub-EEEEEE?&logo=GitHub&logoColor=181717)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=181717)
 
 ## ✅ Entre em contato!
 
