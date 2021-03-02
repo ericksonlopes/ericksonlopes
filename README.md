@@ -14,7 +14,7 @@
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
 - ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 
-### databases:
+### Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
 - ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
 - ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
