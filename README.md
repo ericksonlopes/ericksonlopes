@@ -9,7 +9,7 @@
 
 
 ### 🛠 Habilidades técnicas
-- Python
+- [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)]
 - Web Scraping
 - Git
 - MySQL / SQL
