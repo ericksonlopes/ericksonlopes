@@ -16,16 +16,16 @@
 - `Web Scraping`
 
 ### databases:
-- ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
-- ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
+- ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=FFFFFF)
+- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=FFFFFF)
+- ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=FFFFFF)
 
 ### Ferramentas:
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm&logoColor=4479A1)
-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-- ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=181717)
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm&logoColor=FFFFFF)
+- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)
+- ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
+- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FFFFFF)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 
 ## ✅ Entre em contato!
 
