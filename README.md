@@ -16,9 +16,9 @@
 - `Web Scraping`
 
 ### databases:
-- ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=FFFFFF)
-- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=FFFFFF)
-- ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=FFFFFF)
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
+- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
+- ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
 ### Ferramentas:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm&logoColor=FFFFFF)
