@@ -14,7 +14,7 @@
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 - ![Python](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=3776AB)
-- 
+- `-n`
 
 ### databases:
 - ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
