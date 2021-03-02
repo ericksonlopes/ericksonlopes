@@ -9,10 +9,10 @@
 
 
 ### Habilidades técnicas:
-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
-- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=F05032)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=E34F26)
-- ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=3776AB)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
+- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
+- ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 - `Web Scraping`
 
 ### databases:
