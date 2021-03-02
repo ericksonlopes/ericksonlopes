@@ -11,9 +11,8 @@
 ### 🛠 Habilidades técnicas
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 - Web Scraping
-- Git
-- MySQL / SQL
-- HTML5
+- ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
+- ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 - Django
 
 ### databases
