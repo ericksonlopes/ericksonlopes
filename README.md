@@ -28,6 +28,7 @@
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 - ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?&logo=Kaggle&logoColor=FFFFFF)
+- ![Xampp](https://img.shields.io/badge/-XAMPP-20BEFF?&logo=XAMPP&logoColor=FB7A24)
 
 ## ✅ Entre em contato!
 
