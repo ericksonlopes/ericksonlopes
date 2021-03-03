@@ -24,8 +24,6 @@
 ### ✅ Ferramentas:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF)
-
-?&logo=Windows&logoColor=FFFFFF)
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
