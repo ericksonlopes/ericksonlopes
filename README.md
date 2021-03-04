@@ -8,7 +8,7 @@
 👋Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
 
 
-### ✅ Habilidades técnicas:
+### ✅ Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF)
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
