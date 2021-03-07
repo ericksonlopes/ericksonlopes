@@ -24,10 +24,9 @@
 - [![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:ofc.erickson@gmail.com)
 
 
-
+<br>
 
 # :bulb:  Minhas estatísticas gerais 
- 
  
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
