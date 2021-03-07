@@ -42,5 +42,4 @@
  
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
