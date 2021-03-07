@@ -37,15 +37,10 @@
 - [![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:ofc.erickson@gmail.com)
 
 
-# :bulb:  Minhas estatísticas gerais  :checkered_flag:  :black_nib:
+# :bulb:  Minhas estatísticas gerais  
  
  
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
-
-# :speaking_head:  Minhas cotribuições privadas  :heavy_check_mark:  :octopus:	
-
-
-![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&count_private=true&show_icons=true&theme=merko&)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
