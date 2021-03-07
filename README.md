@@ -24,7 +24,7 @@
 
 <br>
 
-# :bulb:  Minhas estatísticas gerais 
+# :bulb:  Estatísticas gerais 
  
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
