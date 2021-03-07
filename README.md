@@ -37,6 +37,15 @@
 - [![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:ofc.erickson@gmail.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
+# :bulb:  Minhas estatísticas gerais  :checkered_flag:  :black_nib:
+ 
+ 
+[![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErickson-lopes-dev%2Fhit-counter&count_bg=%233776AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# :speaking_head:  Minhas cotribuições privadas  :heavy_check_mark:  :octopus:	
+
+
+![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&count_private=true&show_icons=true&theme=merko&)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
