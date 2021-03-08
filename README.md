@@ -34,7 +34,7 @@
 	✅ Entre em contato! ✉️
 </h1>
 
-<p align="center"> 
+<align="center"> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopesdev/)
  [![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:ofc.erickson@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/erickson.lds/)
