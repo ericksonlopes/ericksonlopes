@@ -6,6 +6,7 @@
 ## ✅Bem vindo ao Github de um Pythonista🚀  
 
 👋 Me chamo **Erickson Lopes**, tenho 19 anos e minha grande paixão é programar!!
+
 🎓 Sou formado em Diversos cursos online, documentações, e muitas pesquisas como um bom autodidata! 
 
 
