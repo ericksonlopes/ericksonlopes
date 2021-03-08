@@ -7,7 +7,7 @@
 
 - 👋 Me chamo **Erickson Lopes**, tenho 19 anos.
 
-- 🎓 Sou formado em Diversos cursos online, documentações, pesquisas e muita prática como um bom autodidata! 
+- 🎓 Sou formado em Diversos cursos online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates)), documentações, pesquisas e muita prática como um bom autodidata! 
 
 
 
