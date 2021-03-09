@@ -4,10 +4,11 @@
 
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Erickson Lopes**, tenho 19 anos.
-- 📍 Atualmente moro em São Paulo, Brasil.
+- 📍 De São Paulo, Brasil.
+- 💼 Atualmente sou desenvolvedor de sistemas Jr(Backend).
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-- 🛠️ To sempre criando uns projetos.
+- 🛠️ Estudando para me tornar um data enginner.
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
 <br>
