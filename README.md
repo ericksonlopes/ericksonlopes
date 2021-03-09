@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	✅Bem vindo(s) ao meu GitHub🚀
+	✅Bem vindo ao meu GitHub🚀
 </h1>
 
 ### 👦Sobre mim :seedling: : 
