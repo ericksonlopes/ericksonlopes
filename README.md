@@ -11,12 +11,9 @@
 - 🛠️ Estudando para me tornar um **data enginner**.
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
-<br>
 
 ### ⚡ Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF) ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-
-
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
@@ -33,7 +30,6 @@
 ### 📈  linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
-<br>
 
 ## ✅ Entre em contato! ✉️
 
