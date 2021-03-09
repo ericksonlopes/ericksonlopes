@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Erickson Lopes**, tenho 19 anos.
 - 📍 Atualmente moro em São Paulo, Brasil.
-- 🎓 Sou formado em Diversos Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates)), Documentações, Pesquisas e muita Prática como um Bom Autodidata! 
+- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 
 <br>
