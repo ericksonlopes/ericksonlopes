@@ -32,6 +32,7 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
+
 ## ✅ Entre em contato! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopesdev/)
