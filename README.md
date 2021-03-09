@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Erickson Lopes**, tenho 19 anos.
 - 🎓 Sou formado em Diversos Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates)), Documentações, Pesquisas e muita Prática como um Bom Autodidata! 
-- 😊 Posso te ajudar com Python.
+- 😊 Posso te ajudar com **Python**.
 
 <br>
 
