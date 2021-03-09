@@ -7,7 +7,8 @@
 - 📍 Atualmente moro em São Paulo, Brasil.
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-- 🔭 Curiosidade: Skatista, Criador de conteúdo no LinkedIn.
+- 🛠️ Crio Projetos aleatórios com o que aprendo.
+- 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
 <br>
 
