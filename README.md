@@ -8,7 +8,7 @@
 - 💼 Atualmente sou desenvolvedor de sistemas Jr(Backend).
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-- 🛠️ Estudando para me tornar um **data engineer**.
+- 🛠️ Estudando para me tornar um **Analista de dados**.
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
 <hr>
