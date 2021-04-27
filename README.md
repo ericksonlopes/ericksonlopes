@@ -29,7 +29,7 @@
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss,JavaScript,c++,Tex,C&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss,JavaScript,PowerShell,C++,Tex,C&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
