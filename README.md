@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Erickson Lopes**, tenho 19 anos.
+- 👋 Me chamo **Erickson Lopes**, tenho 20 anos.
 - 📌  De Itapecerica da Serra, São Paulo, Brasil.
 - 💼 Procurando uma oportunidade
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
