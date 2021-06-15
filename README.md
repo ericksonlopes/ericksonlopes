@@ -7,7 +7,7 @@
 - 📌  De Itapecerica da Serra, São Paulo, Brasil.
 - 💼 Procurando uma oportunidade
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 📋 Faço umas postagem completissima sobre python na [Python Academy](https://pythonacademy.com.br).
+- 📋 Faço umas postagem completissimas sobre python na [Python Academy](https://pythonacademy.com.br).
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
