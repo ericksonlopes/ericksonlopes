@@ -8,7 +8,6 @@
 - 💼 Procurando uma oportunidade
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-- 🛠️ Estudando com foco em me aprimorar na área de **dados**.
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
 <hr>
