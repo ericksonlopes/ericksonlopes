@@ -8,7 +8,7 @@
 - 💼 Procurando uma oportunidade
 - 🎓 Cursando Análise e desenvolvimento de sistemas na Estácio. 
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 👨‍🏫 Escrevo para o um exelente blog, chamado [Python Academy](https://pythonacademy.com.br).
+- 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br).
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
