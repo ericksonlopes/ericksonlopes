@@ -21,7 +21,7 @@
 - ![JSON](https://img.shields.io/badge/-JSON-181717?&logo=JSON&logoColor=FFFFFF) ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
 
-### 🧰 Ferramentas:
+### 🧰 Tools:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![WakaTime](https://img.shields.io/badge/-WakaTime-181717?&logo=WakaTime&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![Trello](https://img.shields.io/badge/-Trello-0052CC?&logo=Trello&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyPI](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=FFFFFF) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?&logo=Kaggle&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
 
 ### 🧩 Extras:
