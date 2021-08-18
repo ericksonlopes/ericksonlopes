@@ -14,7 +14,7 @@
 
 <hr>
 
-### ⚡ Habilidades:
+### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF)   ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=FFFFFF) ![Jinja](https://img.shields.io/badge/-Jinja-B41717?&logo=Jinja&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF)
 
 ### 📦 Databases:
