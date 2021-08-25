@@ -27,7 +27,7 @@
 ### 🧩 Extras:
 - ![Inkscape](https://img.shields.io/badge/-Inkscape-181717?&logo=Inkscape&logoColor=FFFFFF) ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&logo=Spotify&logoColor=FFFFFF) ![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=FFFFFF) ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?&logo=LibreOffice&logoColor=FFFFFF) ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?&logo=GoogleChrome&logoColor=FFFFFF) ![Opera](https://img.shields.io/badge/-Opera-FF1B2D?&logo=Opera&logoColor=FFFFFF)
 
-### :bulb:  General statistics 
+### :bulb: General statistics: 
  
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
 
