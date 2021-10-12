@@ -12,7 +12,7 @@
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
-- ⌚ Horas dedicadas a progração: [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
+- ⌚ [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
 
 <hr>
 
