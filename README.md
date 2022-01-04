@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Erickson Lopes**, tenho 20 anos.
 - 📌  De Itapecerica da Serra, São Paulo, Brazil.
-- 💼 Python developer at Be3 Health Tech
+- 💼 Developer at Be3 Health Tech
 - 🎓 Cursando Análise e desenvolvimento de sistemas na Estácio de sá. 
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br).
