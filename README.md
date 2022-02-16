@@ -7,7 +7,7 @@
 - 📌  De Itapecerica da Serra, São Paulo, Brazil.
 - 💼 Developer at Be3 Health Tech
 - 🎓 Cursando Análise e desenvolvimento de sistemas na Estácio de sá. 
-- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
 - 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br).
 - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
