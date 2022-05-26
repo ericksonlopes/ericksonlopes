@@ -13,7 +13,7 @@
 - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 
 - ⌚ [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
-- ⚙ Minha lista de projetos [Aqui!](https://github.com/stars/Erickson-lopes-dev/lists/projects)
+- ⚙ Minha lista de projetos [My projects!](https://github.com/stars/Erickson-lopes-dev/lists/projects)
 <hr>
 
 ### ⚡ Skills:
