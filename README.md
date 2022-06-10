@@ -12,6 +12,7 @@
 > - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 > - ⌚ [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
 > - ⚙ Minha lista de projetos [My projects!](https://github.com/stars/Erickson-lopes-dev/lists/projects)
+<hr>
 
 ### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Jinja](https://img.shields.io/badge/-Jinja-B41717?&logo=Jinja&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?&logo=Selenium&logoColor=FFFFFF)   ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) 
