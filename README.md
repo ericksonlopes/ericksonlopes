@@ -31,7 +31,7 @@
 
 ### :bulb: General statistics: 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true height="149px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true" height="149px" />
   &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss,JavaScript,PowerShell,C++,Td,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
 </p>
