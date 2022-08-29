@@ -25,10 +25,7 @@
 
 ### 🧩 Extras:
 - ![JSON](https://img.shields.io/badge/-JSON-181717?&logo=JSON&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/-Inkscape-181717?&logo=Inkscape&logoColor=FFFFFF) ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&logo=Spotify&logoColor=FFFFFF) ![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=FFFFFF) ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?&logo=LibreOffice&logoColor=FFFFFF) ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?&logo=GoogleChrome&logoColor=FFFFFF) ![Slack](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?&logo=Kaggle&logoColor=FFFFFF) ![Trello](https://img.shields.io/badge/-Trello-0052CC?&logo=Trello&logoColor=FFFFFF)
-
-### Studying
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=FFFFFF) ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?&logo=C%20Sharp&logoColor=FFFFFF) 
-
+ 
 ### :bulb: General statistics and Most used languages:
 <p float="left" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true" height="149px" />
