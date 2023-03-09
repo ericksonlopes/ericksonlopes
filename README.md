@@ -6,12 +6,12 @@
 > - 👋 Me chamo **Erickson Lopes**, tenho 21 anos.
 > - 📌  De Itapecerica da Serra, São Paulo, Brazil.
 > - 🎓 Cursando Análise e desenvolvimento de sistemas na Estácio de sá. 
-> - 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
+> - 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/ericksonlopes/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
 > - 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br).
 > - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 > - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
 > - ⌚ [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
-> - ⚙ Minha lista de projetos [My projects!](https://github.com/stars/Erickson-lopes-dev/lists/projects)
+> - ⚙ Minha lista de projetos [My projects!](https://github.com/stars/ericksonlopes/lists/projects)
 <hr>
 
 ### ⚡ Skills:
