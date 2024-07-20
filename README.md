@@ -4,9 +4,8 @@
 
 ### 👦Sobre mim :seedling: : 
 > - 👋 Me chamo **Erickson Lopes**, tenho 23 anos.
-> - 📌  De Itapecerica da Serra, São Paulo, Brazil.
-> - 🎓 Cursando Análise e desenvolvimento de sistemas na Estácio de sá. 
-> - 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/ericksonlopes/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
+> - 📌 De Itapecerica da Serra, São Paulo, Brazil.
+> - 🎓 Análise e desenvolvimento de sistemas na Estácio de sá. E formado em Diversos **Cursos Online([Certificados](https://github.com/ericksonlopes/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
 > - 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br/autores/erickson-lopes).
 > - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 > - 🔭 Curiosidades: Skatista, Criador de conteúdo no LinkedIn.
