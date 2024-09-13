@@ -32,6 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericksonlopes&hide=scss,JavaScript,PowerShell,C++,Td,Tcl,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ericksonlopes)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 
 ## ✅ Entre em contato! ✉️
