@@ -40,4 +40,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopes/)
  [![Gmail Badge](https://img.shields.io/badge/-ofc.erickson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:ofc.erickson@gmail.com)
- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/erickson.lds/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErickson-lopes-dev&count_bg=%23FE6E96&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=Visualizações+no+Perfil&edge_flat=true)](https://github.com/ericksonlopes)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErickson-lopes-dev&count_bg=%23FE6E96&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=Visualizações+no+Perfil&edge_flat=true)](https://github.com/ericksonlopes)
