@@ -3,14 +3,13 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-> - 👋 Me chamo **Erickson Lopes**, tenho 23 anos.
-> - 📌 São Paulo, Brazil.
-> - 🎓 Análise e desenvolvimento de sistemas na Estácio de sá. E formado em Diversos **Cursos Online([Certificados](https://github.com/ericksonlopes/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
-> - 👨‍🏫 Escrevo para um exelente blog, chamado [Python Academy](https://pythonacademy.com.br/autores/erickson-lopes).
-> - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-> - 🔭 Curiosidades: Skatista, Criador de conteúdo no Python.
-> - ⌚ [![wakatime](https://wakatime.com/badge/user/541772df-f19f-4145-a40c-cf7ffac73ea5.svg)](https://wakatime.com/@541772df-f19f-4145-a40c-cf7ffac73ea5)
-> - ⚙ Minha lista de projetos [My projects!](https://github.com/stars/ericksonlopes/lists/projects)
+> - Olá! Me chamo Erickson Lopes e sou apaixonado por tecnologia, dados e resolver problemas com código.
+> - 🎓 Formado em Análise e Desenvolvimento de Sistemas, também sou autodidata com dezenas de cursos, projetos e artigos publicados.
+> - 🧠 Atuo como Engenheiro de Dados Pleno na RD Saúde pela Impulso e como Content Writer na Python Academy, onde compartilho conhecimento com a comunidade.
+> - 🛠️ Tenho experiência em Python, AWS (Lambda, Glue, EC2, S3), ETL com Spark, microsserviços, RPA, Web Scraping, APIs REST e aplicações com IA generativa (LangChain + ChatGPT).
+> - 📌 Sou de São Paulo e acredito que a curiosidade é a maior ferramenta de um desenvolvedor.
+> - 🛹 Curiosidade extra: também sou skatista e movido por desafios 🚀
+
 <hr>
 
 ### ⚡ Skills:
