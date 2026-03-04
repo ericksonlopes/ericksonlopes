@@ -12,20 +12,56 @@
 
 <hr>
 
-### ⚡ Skills:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![Jinja](https://img.shields.io/badge/-Jinja2-B41717?&logo=Jinja&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?&logo=Pytest&logoColor=FFFFFF) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?&logo=Snowflake&logoColor=FFFFFF) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=FFFFFF) ![Elastic](https://img.shields.io/badge/-elastic-005571?&logo=elastic&logoColor=FFFFFF) ![langchain](https://img.shields.io/badge/-langchain-1C3C3C?&logo=langchain&logoColor=FFFFFF) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?&logo=Selenium&logoColor=FFFFFF) ![ApachePulsar](https://img.shields.io/badge/-Apache%20Pulsar-188FFF?&logo=ApachePulsar&logoColor=FFFFFF) ![MQTT](https://img.shields.io/badge/-MQTT-660066?&logo=MQTT&logoColor=FFFFFF) 
+### 🧠 Tech Stack
 
-### 📦 Databases:
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4479A1?&logo=CosmosDB&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=FFFFFF) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF) ![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=FFFFFF) ![amazons3](https://img.shields.io/badge/-Bucket%20S3-569A31?&logo=amazons3&logoColor=FFFFFF) ![Amazon Dynamo DB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=amazondynamodb&logoColor=FFFFFF) ![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?&logo=amazonredshift&logoColor=FFFFFF) ![Chroma](https://img.shields.io/badge/-ChromaDB-4479A1?&logo=Chroma&logoColor=FFFFFF) ![Weaviate](https://img.shields.io/badge/-Weaviate-4479A1?&logo=Weaviate&logoColor=FFFFFF)
+#### ⚡ Linguagens & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-181717?style=flat-square&logo=Flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 
-### ☁️ Cloud & DevOps
-- ![EC2](https://img.shields.io/badge/-Amazon%20EC2-232F3E?&logo=amazonec2&logoColor=FFFFFF) ![Glue](https://img.shields.io/badge/-Amazon%20Glue-232F3E?&logo=amazonwebservices&logoColor=FFFFFF) ![Lambda](https://img.shields.io/badge/-Lambda-232F3E?&logo=awslambda&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=GitHub%20Actions&logoColor=FFFFFF) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?&logo=apacheairflow&logoColor=FFFFFF)
+#### 🧠 IA & Agentes
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![crewai](https://img.shields.io/badge/-crewai-FF5A50?style=flat-square&logo=crewai&logoColor=white)
+![Weaviate](https://img.shields.io/badge/-Weaviate-00C853?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-4479A1?style=flat-square&logoColor=white)
 
-### 🛠️ Ferramentas & IDEs:
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![WakaTime](https://img.shields.io/badge/-WakaTime-181717?&logo=WakaTime&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF) ![Jupyter](https://img.shields.io/badge/-jupyter-F37626?&logo=Jupyter&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-569A31?&logo=Linux&logoColor=FFFFFF) 
+#### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/-CosmosDB-0078D4?style=flat-square&logoColor=white)
+![S3](https://img.shields.io/badge/-Bucket%20S3-569A31?style=flat-square&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
 
-### 🧩 Extras e Utilitários:
-- ![JSON](https://img.shields.io/badge/-JSON-181717?&logo=JSON&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/-Inkscape-181717?&logo=Inkscape&logoColor=FFFFFF) ![Slack](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=FFFFFF) ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&logo=Spotify&logoColor=FFFFFF) ![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=FFFFFF) ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?&logo=LibreOffice&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF)  ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?&logo=Kaggle&logoColor=FFFFFF) ![Trello](https://img.shields.io/badge/-Trello-0052CC?&logo=Trello&logoColor=FFFFFF) ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=jira&logoColor=FFFFFF) 
+
+#### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat-square&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+
+#### 📡 Mensageria
+![Apache Pulsar](https://img.shields.io/badge/-Apache%20Pulsar-188FFF?style=flat-square&logo=ApachePulsar&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=MQTT&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
  
 ### :bulb: General statistics and Most used languages:
 <p float="left" align="left">
