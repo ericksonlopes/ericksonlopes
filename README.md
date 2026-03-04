@@ -1,11 +1,25 @@
-<h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+<h1 align="center">
+  Erickson Lopes
 </h1>
 
+<p align="center">
+  <strong> Desenvolvedor Python · Engenheiro de IA </strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ericksonlopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:ofc.erickson@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 👦Sobre mim :seedling: : 
-> - Olá! Me chamo Erickson Lopes e sou apaixonado por tecnologia, dados e resolver problemas com código.
 > - 🎓 Formado em Análise e Desenvolvimento de Sistemas, também sou autodidata com dezenas de cursos, projetos e artigos publicados.
-> - 🧠 Atuo como Engenheiro de IA Poliedro e como Content Writer na Python Academy, onde compartilho conhecimento com a comunidade.
+> - 🧠 Atuo como Engenheiro de IA Poliedro e como Content Writer na Python Academy.
 > - 🛠️ Tenho experiência em Python, AWS (Lambda, Glue, EC2, S3), ETL com Spark, microsserviços, RPA, Web Scraping, APIs REST e aplicações com IA generativa (LangChain, LangGraph, Hugging Face).
 > - 📌 Sou de São Paulo e acredito que a curiosidade é a maior ferramenta de um desenvolvedor.
 > - 🛹 Curiosidade extra: também sou skatista e movido por desafios 🚀
@@ -65,9 +79,9 @@
  
 ### :bulb: General statistics and Most used languages:
 <p float="left" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ericksonlopes&theme=cobalt&show_icons=true" height="149px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericksonlopes&theme=cobalt&show_icons=true" height="149px" />
   &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericksonlopes&hide=scss,JavaScript,PowerShell,C++,Td,Tcl,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksonlopes&hide=scss,JavaScript,PowerShell,C++,Td,Tcl,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ericksonlopes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
