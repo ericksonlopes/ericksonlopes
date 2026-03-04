@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 > - Olá! Me chamo Erickson Lopes e sou apaixonado por tecnologia, dados e resolver problemas com código.
 > - 🎓 Formado em Análise e Desenvolvimento de Sistemas, também sou autodidata com dezenas de cursos, projetos e artigos publicados.
-> - 🧠 Atuo como Engenheiro de Dados Pleno na RD Saúde pela Impulso e como Content Writer na Python Academy, onde compartilho conhecimento com a comunidade.
+> - 🧠 Atuo como Engenheiro de IA Poliedro e como Content Writer na Python Academy, onde compartilho conhecimento com a comunidade.
 > - 🛠️ Tenho experiência em Python, AWS (Lambda, Glue, EC2, S3), ETL com Spark, microsserviços, RPA, Web Scraping, APIs REST e aplicações com IA generativa (LangChain, LangGraph, Hugging Face).
 > - 📌 Sou de São Paulo e acredito que a curiosidade é a maior ferramenta de um desenvolvedor.
 > - 🛹 Curiosidade extra: também sou skatista e movido por desafios 🚀
