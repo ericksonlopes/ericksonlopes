@@ -40,7 +40,6 @@
 
 #### 🧠 IA & Agentes
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![crewai](https://img.shields.io/badge/-crewai-FF5A50?style=flat-square&logo=crewai&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-00C853?style=flat-square&logoColor=white)
