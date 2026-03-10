@@ -40,7 +40,6 @@
 
 #### 🧠 IA & Agentes
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![crewai](https://img.shields.io/badge/-crewai-FF5A50?style=flat-square&logo=crewai&logoColor=white)
@@ -63,12 +62,13 @@
 
 #### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat-square&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat-square&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logoColor=white)
+
 
 #### 📡 Mensageria
 ![Apache Pulsar](https://img.shields.io/badge/-Apache%20Pulsar-188FFF?style=flat-square&logo=ApachePulsar&logoColor=white)
